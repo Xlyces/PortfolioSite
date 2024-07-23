@@ -1,7 +1,7 @@
 import React from 'react'
 import '../SkillContainers/SmallSkillCardStyles.css'
 
-function SmallSkillCard({skill,collageImageFile, contentTitle, contentText}) {
+function SmallSkillCard({collageImageFile, contentTitle, contentText}) {
   return (
     <>
         <div class='divContainer' style={{scrollSnapAlign:'center'}}>
