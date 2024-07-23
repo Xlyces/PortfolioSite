@@ -64,7 +64,6 @@
     max-width: 100%; /* Ensures the image doesn't exceed the container height */ /* Positions the image relative to the container */
     top: 50%; /* Vertically centers the image */
     left: 50%; /* Horizontally centers the image */
-    background: purple;
   }
 
 .textContainer {

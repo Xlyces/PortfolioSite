@@ -43,7 +43,7 @@ function InterestsContainer2({ background, interest, interestE }) {
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'flex-end',
-        opacity: isVisible ? '0.6' : '0',
+        opacity: isVisible ? '1' : '0',
         transition: 'opacity 0.5s ease-in-out, background-position 1s ease-in-out',
       }}
     >

@@ -20,6 +20,7 @@ import * as Skillz from './Content Files/Skill Trees/SkillTrees.jsx'
 import PersonalityTraitContainers from './Components/Content/AdditionalContainers/PersonalityTraitContainers.jsx';
 import InterestsContainer from './Components/Content/AdditionalContainers/InterestsContainer.jsx';
 import InterestsContainer2 from './Components/Content/AdditionalContainers/InterestsContainer2.jsx';
+import FooterContainer from './Components/Content/AdditionalContainers/FooterContainer.jsx';
 
 
 //0C1016
@@ -50,14 +51,16 @@ function App() {
           <BigSkillTitle skill={Content.uSkillTitleB} imageLink={Content.uSkillTitleBI}></BigSkillTitle>
           <BigSkillSubBox image={Content.uSkillB1I} skill={Content.uSkillB1} skillDescription={Content.uSkillDescriptionB1}></BigSkillSubBox>
           <BigSkillSubBox image={Content.uSkillB2I} skill={Content.uSkillB2} skillDescription={Content.uSkillDescriptionB2}></BigSkillSubBox>
+          <BigSkillTitle skill={Content.uSkillTitleC} imageLink={Content.uSkillTitleCI}></BigSkillTitle>
+          <BigSkillSubBox image={Content.uSkillC1I} skill={Content.uSkillC1} skillDescription={Content.uSkillDescriptionC1}></BigSkillSubBox>
           <Quote quote={Content.pTitle}></Quote>
           <PersonalityTraitContainers personality1={Content.per1} elaboration1={Content.per1E} personality2={Content.per2} elaboration2={Content.per2E} personality3={Content.per3} elaboration3={Content.per3E} personality4={Content.per4} elaboration4={Content.per4E}></PersonalityTraitContainers>
           <Quote quote={Content.iTitle}></Quote>
-          <InterestsContainer background={image} interest={Content.int1} interestE={Content.int1E}></InterestsContainer>
-          <InterestsContainer2 background={image} interest={Content.int2} interestE={Content.int2E}></InterestsContainer2>
-          <InterestsContainer background={image} interest={Content.int3} interestE={Content.int3E}></InterestsContainer>
-          <InterestsContainer2 background={image} interest={Content.int4} interestE={Content.int4E}></InterestsContainer2>
-          
+          <InterestsContainer background={Content.int1I} interest={Content.int1} interestE={Content.int1E}></InterestsContainer>
+          <InterestsContainer2 background={Content.int2I} interest={Content.int2} interestE={Content.int2E}></InterestsContainer2>
+          <InterestsContainer background={Content.int3I} interest={Content.int3} interestE={Content.int3E}></InterestsContainer>
+          <InterestsContainer2 background={Content.int4I} interest={Content.int4} interestE={Content.int4E}></InterestsContainer2>
+          <FooterContainer></FooterContainer>
         </div>
       </div>
       <div style={{
