@@ -1,0 +1,74 @@
+
+.cardContainer{
+    display: block;
+}
+
+
+.divContainer{
+    width: 160vh;
+    justify-content: space-around;
+    display: flex;
+    height: 30rem;
+    align-items: center;
+    overflow: auto;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.contentContainer {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    height: fit-content;
+
+}
+
+
+.titleContainer {
+    display: flex;
+    align-items: flex-end;
+    height: 15vh;
+    color: #b69d74;
+    font-size: 1.1rem;
+    white-space: wrap;
+    overflow: hidden;
+    position: relative;
+    
+    /*border: #b69d74 1px solid;*/
+}
+
+.titleContainer h3 {
+    z-index: 100;
+    position: relative;
+    margin: 0.3rem;
+}
+
+.titleContainer img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    filter:brightness(50%);
+    z-index: 0;
+    object-fit: cover;
+}
+
+.collageContainer {
+    width: 40%;
+    height: 50vh;
+    overflow: hidden;
+    display:flex;
+    align-items: center;
+}
+
+.centered-image {
+    max-width: 100%; /* Ensures the image doesn't exceed the container height */ /* Positions the image relative to the container */
+    top: 50%; /* Vertically centers the image */
+    left: 50%; /* Horizontally centers the image */
+    background: purple;
+  }
+
+.textContainer {
+    padding: 1rem 0.3rem;
+    line-height: 2rem;
+    white-space: normal
+}
