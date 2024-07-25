@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.51b48f6a.css",
-    "main.js": "/static/js/main.8b7bd658.js",
-    "static/js/453.aac68abc.chunk.js": "/static/js/453.aac68abc.chunk.js",
-    "static/media/guitarCollage.png": "/static/media/guitarCollage.678e4e06c4334588418a.png",
-    "static/media/pianoCollage.png": "/static/media/pianoCollage.236b121d1b67cd7c9d3e.png",
-    "static/media/softwaredevimg.jpg": "/static/media/softwaredevimg.9c0713d2814a2b1d29c1.jpg",
-    "static/media/beachCollage.png": "/static/media/beachCollage.0bc42b3364fde1ab2cda.png",
-    "static/media/coffeeCollage.png": "/static/media/coffeeCollage.53fab4d63d166d749408.png",
-    "static/media/visteastmoot.jpg": "/static/media/visteastmoot.cf5f4e125ca8dd746999.jpg",
-    "static/media/trophy.jpg": "/static/media/trophy.8cdbbff969247d05b9b5.jpg",
-    "static/media/NathanAtMorganLewis.jpeg": "/static/media/NathanAtMorganLewis.c05407099864f242cb2d.jpeg",
-    "static/media/debate.jpg": "/static/media/debate.762889a8b82d1ce93d23.jpg",
-    "static/media/languages.png": "/static/media/languages.26744c20926c7ba8c4b5.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.51b48f6a.css.map": "/static/css/main.51b48f6a.css.map",
-    "main.8b7bd658.js.map": "/static/js/main.8b7bd658.js.map",
-    "453.aac68abc.chunk.js.map": "/static/js/453.aac68abc.chunk.js.map"
+    "main.css": "./static/css/main.51b48f6a.css",
+    "main.js": "./static/js/main.58ad4b2a.js",
+    "static/js/453.aac68abc.chunk.js": "./static/js/453.aac68abc.chunk.js",
+    "static/media/guitarCollage.png": "./static/media/guitarCollage.678e4e06c4334588418a.png",
+    "static/media/pianoCollage.png": "./static/media/pianoCollage.236b121d1b67cd7c9d3e.png",
+    "static/media/softwaredevimg.jpg": "./static/media/softwaredevimg.9c0713d2814a2b1d29c1.jpg",
+    "static/media/beachCollage.png": "./static/media/beachCollage.0bc42b3364fde1ab2cda.png",
+    "static/media/coffeeCollage.png": "./static/media/coffeeCollage.53fab4d63d166d749408.png",
+    "static/media/visteastmoot.jpg": "./static/media/visteastmoot.cf5f4e125ca8dd746999.jpg",
+    "static/media/trophy.jpg": "./static/media/trophy.8cdbbff969247d05b9b5.jpg",
+    "static/media/NathanAtMorganLewis.jpeg": "./static/media/NathanAtMorganLewis.c05407099864f242cb2d.jpeg",
+    "static/media/debate.jpg": "./static/media/debate.762889a8b82d1ce93d23.jpg",
+    "static/media/languages.png": "./static/media/languages.26744c20926c7ba8c4b5.png",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.51b48f6a.css.map": "./static/css/main.51b48f6a.css.map",
+    "main.58ad4b2a.js.map": "./static/js/main.58ad4b2a.js.map",
+    "453.aac68abc.chunk.js.map": "./static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51b48f6a.css",
-    "static/js/main.8b7bd658.js"
+    "static/js/main.58ad4b2a.js"
   ]
 }
