@@ -10,6 +10,7 @@ import softwaredev from '../Assets/softwaredevimg.jpg'
 import trophy from '../Assets/trophy.jpg'
 import viseast from '../Assets/visteastmoot.jpg'
 import languages from '../Assets/languages.png'
+import debate2 from '../Assets/debatePhoto.JPG'
 
 
 //About Me
@@ -30,7 +31,7 @@ export const fSkill1aD = 'Nominated by HKU, I accompanied the Deputy Secretary o
 export const fSkill1aI = "https://img.tvb.com/inews_admin/pro/20230918/entries_horizontal_6508158adc8e20f9d2590034_00004_1695029642021_1200x630.jpg"
 export const fSkill1b = 'Emcee & Chairman of the HK28 Public Policy Debates'
 export const fSkill1bD = 'I was also personally invited by the CEO of the HK28 Youth Development Platform to emcee and chair the public policy debates held by her organisation. These were debates open to students, starring judges ranging from LegCo members to lawyers to the CEO of Ocean Park. '
-export const fSkill1bI = 'https://mkantwerpen.be/wp-content/uploads/2020/01/placeholder.png'
+export const fSkill1bI = debate2
 export const fSkill1c = 'Languages'
 export const fSkill1cD = 'I am natively fluent in Cantonese, English, and Mandarin. Cantonese is my mother tongue; English was my primary language during my entire middle school and high school education at ESF Discovery College; and I was a Mandarin debater for almost a decade. Honed by experience and time, I have a great command over these languages in all settings, business or casual. '
 export const fSkill1cI = languages
